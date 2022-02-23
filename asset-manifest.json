@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/buscadordegatos/static/css/main.3edd6c0e.chunk.css",
+    "main.js": "/buscadordegatos/static/js/main.548fb4a3.chunk.js",
+    "main.js.map": "/buscadordegatos/static/js/main.548fb4a3.chunk.js.map",
+    "runtime~main.js": "/buscadordegatos/static/js/runtime~main.61135fcc.js",
+    "runtime~main.js.map": "/buscadordegatos/static/js/runtime~main.61135fcc.js.map",
+    "static/js/2.bc0e5e72.chunk.js": "/buscadordegatos/static/js/2.bc0e5e72.chunk.js",
+    "static/js/2.bc0e5e72.chunk.js.map": "/buscadordegatos/static/js/2.bc0e5e72.chunk.js.map",
+    "static/js/3.12bf67e3.chunk.js": "/buscadordegatos/static/js/3.12bf67e3.chunk.js",
+    "static/js/3.12bf67e3.chunk.js.map": "/buscadordegatos/static/js/3.12bf67e3.chunk.js.map",
+    "index.html": "/buscadordegatos/index.html",
+    "precache-manifest.00c3ac48adb87411a308f5d06cca4834.js": "/buscadordegatos/precache-manifest.00c3ac48adb87411a308f5d06cca4834.js",
+    "service-worker.js": "/buscadordegatos/service-worker.js",
+    "static/css/main.3edd6c0e.chunk.css.map": "/buscadordegatos/static/css/main.3edd6c0e.chunk.css.map"
+  }
+}
